@@ -112,4 +112,4 @@ The repository reproduces the paper's deliberately limited claim: the FIUI is in
 
 ## License
 
-See `LICENSE_NOTICE.md`. The authors should select a code license and confirm the redistribution terms of the underlying public-source data before making the GitHub repository public.
+
