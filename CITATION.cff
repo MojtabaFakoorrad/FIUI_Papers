@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "FIUI Paper 1 Reproducibility Repository"
+type: software
+authors:
+  - family-names: Fakourrad
+    given-names: Mojtaba
+  - family-names: Pour Karim
+    given-names: Yaghoub
+version: 1.0.0
+date-released: 2026-08-12
+preferred-citation:
+  type: article
+  title: "Design, Development, and Validation of a Financial Information Usefulness Index: Evidence from Tehran Stock Exchange-Listed Firms"
+  authors:
+    - family-names: Fakourrad
+      given-names: Mojtaba
+    - family-names: Pour Karim
+      given-names: Yaghoub
