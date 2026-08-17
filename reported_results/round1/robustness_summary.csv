@@ -1,0 +1,6 @@
+comparison,n,spearman_rho
+Primary 8-component vs original 9-component,2370,0.9954344584931742
+Primary 8-component vs equal-weighted 8-component,2370,0.8708533478636972
+Primary 8-component vs PCA-weighted 8-component,2370,0.8678385230281134
+Complete-case recalibrated vs primary weights (complete cases only),261,0.9901721775635963
+Nonfinancial recalibrated vs full-sample weights (nonfinancial rows),2235,0.9985738085641843

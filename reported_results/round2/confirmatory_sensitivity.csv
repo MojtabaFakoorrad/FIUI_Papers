@@ -1,0 +1,4 @@
+Alternative,Spearman rho vs primary diagnostic score,Mean absolute score difference
+2nd/98th winsorization of confirmatory proxy,0.9786940008131255,1.2258444604297238
+Confirmatory-value weight capped at 0.25,0.9788654699356825,7.664546595803063
+Confirmatory value excluded,0.7529444182592536,21.93837672531375

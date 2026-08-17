@@ -1,0 +1,12 @@
+{
+  "eligible8": 2370,
+  "complete8": 261,
+  "pca_components": 5,
+  "pca_cumvar": 0.8206534708277116,
+  "financial_firms": 17,
+  "nonfinancial_firms": 302,
+  "financial_mannwhitney_p": 0.006720011447117504,
+  "weight_rank_rho_full_nonfin": 0.9047619047619048,
+  "score_rho_nonfin": 0.9985738085641843,
+  "complete_score_rho": 0.9901721775635963
+}
