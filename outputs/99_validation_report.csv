@@ -1,0 +1,7 @@
+file,max_abs_numeric_difference,pass
+02_revised_weights_8.csv,1.1035616864774056e-13,True
+02_year_stats_8.csv,8.824940778140444e-12,True
+02_robustness_summary.csv,0.0,True
+04_criterion_validity.csv,0.0,True
+05_missingness_by_component.csv,1.1102230246251565e-16,True
+05_confirmatory_distribution.csv,0.0,True

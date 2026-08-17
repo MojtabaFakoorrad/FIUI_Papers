@@ -1,0 +1,7 @@
+criterion,expected_sign,n,spearman_rho,p_value
+Current-year Amihud illiquidity,negative,1196,0.07728400157575945,0.007496678623701142
+Current-year return volatility,negative,1208,-0.06417886082105521,0.02570697642427359
+Current-year mean daily trade value,positive,1210,-0.0780658749558193,0.0065903269729717905
+Next-year Amihud illiquidity,negative,1073,0.12764209795016956,2.747784490797374e-05
+Next-year return volatility,negative,1080,0.017586892855646644,0.5637100476772781
+Next-year mean daily trade value,positive,1080,-0.08243021250740776,0.006720011447117504

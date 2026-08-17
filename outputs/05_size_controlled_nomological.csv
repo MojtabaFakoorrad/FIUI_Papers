@@ -1,0 +1,7 @@
+Criterion,Expected sign,N,Partial Spearman rho controlling log market cap,p-value
+Current-year Amihud illiquidity,negative,1185,-0.04185828091835737,0.14985813438622192
+Current-year Return volatility,negative,1197,-0.09435466759618605,0.0010818165237719776
+Current-year Mean daily trade value,positive,1199,-0.024474032819814025,0.3971651818129173
+Next-year Amihud illiquidity,negative,1056,0.06562086454602624,0.03299052547528015
+Next-year Return volatility,negative,1059,0.06805059778447302,0.02679621091752198
+Next-year Mean daily trade value,positive,1059,0.0024093736943305876,0.9375782578996001

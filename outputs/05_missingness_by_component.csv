@@ -1,0 +1,9 @@
+Component,Observed N,Missing N,Observed rate,Missing rate
+Predictive value,1120,1250,0.47257383966244726,0.5274261603375527
+Confirmatory value,692,1678,0.2919831223628692,0.7080168776371308
+Faithful representation,2138,232,0.9021097046413502,0.09789029535864979
+Structured-data completeness,2370,0,1.0,0.0
+Extraction confidence,2370,0,1.0,0.0
+Accounting-return mapping stability,764,1606,0.32236286919831225,0.6776371308016877
+Timeliness,2370,0,1.0,0.0
+Conservatism,2138,232,0.9021097046413502,0.09789029535864979
