@@ -2,7 +2,7 @@
 
 **Paper:** *Design, Development, and Validation of a Financial Information Usefulness Index: Evidence from Tehran Stock Exchange-Listed Firms*
 
-Authors: **Mojtaba Fakourrad** and **Yaghoub Pour Karim**
+Authors: **Mojtaba Fakoorrad** and **Yaghoub Pour Karim**
 
 This repository contains the Python code, processed firm-year data, de-identified expert-validation data, exact reported-result snapshots, and raw source-data archives used for the revised first FIUI paper.
 
