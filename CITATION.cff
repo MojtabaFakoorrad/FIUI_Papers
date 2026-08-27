@@ -3,7 +3,7 @@ message: "If you use this repository, please cite the associated paper."
 title: "FIUI Paper 1 Reproducibility Repository"
 type: software
 authors:
-  - family-names: Fakourrad
+  - family-names: Fakoorrad
     given-names: Mojtaba
   - family-names: Pour Karim
     given-names: Yaghoub
